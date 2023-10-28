@@ -1,0 +1,145 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573167002039@s.whatsapp.net',
+    fromMe: false,
+    id: '5D5FD5F1E5826270E63CAB90282B1927',
+    participant: undefined
+  },
+  messageTimestamp: 1698449326,
+  pushName: 'Luigui',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573167002039'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_345218a9-e410-4196-93ac-cc42d181738f',
+  keyword: 'key_a85aef9c-f30d-4819-b75e-3706402026f9',
+  answer: 'Bienvenida a FERNANDA ROJAS BRILLANTINA SPA, espero te encuentres súper bien',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8ecd3559f96b8de0d88bb1566183a2f1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fa3d0f18-bd90-4374-b6c1-a8901fa17c32',
+  keyword: 'ans_345218a9-e410-4196-93ac-cc42d181738f',
+  answer: 'Linda, escribe *cita*, si deseas agendar una cita',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '92195bb202d3ebe5b0545897cc8e31df'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_48104d30-8146-40a7-8fcb-47164bb64057',
+  keyword: 'ans_fa3d0f18-bd90-4374-b6c1-a8901fa17c32',
+  answer: 'De lo contrario, escribe *asesor*, si deseas contactar con un asesor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '82ec3669bba7a57495aa14723c40b0f9'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573167002039@s.whatsapp.net',
+    fromMe: false,
+    id: '2CB7361E8C49482BB93C7C2F8C617393',
+    participant: undefined
+  },
+  messageTimestamp: 1698449343,
+  pushName: 'Luigui',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cita',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cita',
+  from: '573167002039'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2db6f6c8-7369-479c-bef4-4730352940e6',
+  keyword: 'key_94fa5e49-6c86-464e-b6e9-14bebf622ad4',
+  answer: 'Perfecto, te envío un link para que visites nuestra página web, desde allí puedes realizar cómodamente tu agenda, además de ver los horarios disponibles. Cualquier duda que tengas la comunicas a un asesor',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '4a27906f9a75ac7d60648d9c1f2c8e08'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573167002039@s.whatsapp.net',
+    fromMe: false,
+    id: '6EAFFE7FC7F66384F1D1853D07DCD522',
+    participant: undefined
+  },
+  messageTimestamp: 1698449566,
+  pushName: 'Luigui',
+  broadcast: false,
+  message: Message {
+    conversation: 'Asesor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Asesor',
+  from: '573167002039'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0d7aa03a-f106-4780-9b4a-a3a8b331306d',
+  keyword: 'key_266853b8-368c-4ae1-9963-87c5bd77e16c',
+  answer: 'Perfecto, en un momento nuestro asesor se pondrá en contacto contigo',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '4a92cba7e602f5d8f05944553778e29f'
+}
